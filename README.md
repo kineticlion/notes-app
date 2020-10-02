@@ -1,4 +1,4 @@
-# NotesApp
+# NotesApp :memo:
 
 - A Node.js CLI application for management of notes.
 
